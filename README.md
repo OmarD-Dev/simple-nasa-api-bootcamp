@@ -1,22 +1,9 @@
 # 🚀 Project: Simple NASA API
 
-### Goal: Enable your user to enter a date and return the picture/video of the day from NASA's API
+This project uses NASA's APOD API  to produce a picture of the day along with a description of the photo.
+This project uses HTML, CSS, and vanilla JavaScript. Feel free to fork and clone the repository to work on your own projects!
 
-### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+
+[2022-05-09](https://user-images.githubusercontent.com/102920855/167981010-c0b5d9a5-5e80-491c-8b91-3b5f84ff5d3a.png)
